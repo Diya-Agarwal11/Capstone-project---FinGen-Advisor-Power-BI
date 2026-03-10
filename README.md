@@ -1,14 +1,26 @@
-📋 FinGen Advisor
+****FinGen Advisor****
 
 A financial analytics dashboard built using Power BI with Excel as data sources. It helps advisors and investors track loans, investments, and net worth, while providing personalized insights and risk alerts.
 
-📌 Problem Statement  
+**Dashboard Preview:-**
+1. FinGen Advisor Overview Dashboard
+   ![FinGen Advisor Overview Dashboard](https://github.com/user-attachments/assets/f091ae01-4479-4fe0-92a2-1c21556f9760)
+
+2. Overall Loan and Investment Analysis
+   ![Overall Loan and Investment Analysis](https://github.com/user-attachments/assets/43984f43-3032-4b3c-8e1c-46ab5adaf886)
+
+3. Investor Detail View
+   ![Investor Detail View](https://github.com/user-attachments/assets/71d21404-5d01-4b06-b91e-fe64a2035b34)
+
+
+**Problem Statement**  
 Investors and advisors struggle with scattered financial data across spreadsheets and reports. Manual tracking makes it hard to compare loans, investments, and risks, leading to slow and error‑prone decisions.
 
-📌 Aim  
+**Aim** 
+
 To build a unified dashboard in Power BI that consolidates investor data, visualizes loans and investments, and provides personalized financial advice with clear, interactive insights.
 
-📌 Objectives
+**Objectives**
 
 Create user‑friendly dashboards for loan and investment analysis
 
@@ -22,7 +34,7 @@ Enable filters for age, sector, and loan type
 
 Improve financial literacy through interactive charts
 
-📌 Data Source
+**Data Source**
 
 Investor records (income, loans, investments)
 
@@ -32,7 +44,7 @@ Sector‑wise investment data (Pharma, IT, Auto, Infra, Banking, Energy, FMCG)
 
 SQL/Excel datasets
 
-📌 Tools & Technologies
+**Tools & Technologies**
 
 Power BI Desktop / Service
 
@@ -44,10 +56,11 @@ SQL / Excel / CSV for data input
 
 Treemaps, scatter plots, bar charts for visualization
 
-📌 System Overview  
+**System Overview** 
+
 The system integrates investor and loan data into Power BI, applies transformations via Power Query, and builds dashboards with DAX measures. Users can filter by age, sector, and loan type, view overall analysis, and drill down into individual investor profiles with tailored advice.
 
-📌 Methodology / Working Steps
+**Methodology** 
 
 Collect investor and loan data
 
@@ -61,7 +74,7 @@ Add filters for interactive exploration
 
 Provide advisory notes and risk alerts
 
-📌 Key Features
+**Key Features**
 
 Real‑time dashboards with clear metrics
 
@@ -73,7 +86,7 @@ Sector‑wise treemap analysis
 
 Risk alerts based on debt ratios
 
-📌 Findings & Insights
+**Findings & Insights**
 
 Many investors have high debt‑to‑income ratios
 
@@ -83,7 +96,7 @@ Personalized dashboards improve clarity and decision‑making
 
 Advisors can quickly identify risky profiles and guide clients
 
-📌 Advantages
+**Advantages**
 
 Easy to use and visually clear
 
@@ -95,7 +108,7 @@ Supports financial literacy and decision‑making
 
 Scalable with SQL backend
 
-⚠️ Limitations
+**Limitations**
 
 Limited to loans, stocks, and mutual funds (no ETFs, bonds, crypto)
 
@@ -105,7 +118,7 @@ Risk analysis simplified, not fully dynamic
 
 Single‑user focus, not yet enterprise‑scaled
 
-📌 Future Scope
+**Future Scope**
 
 Add advanced investment options (ETFs, bonds, crypto)
 
@@ -117,5 +130,10 @@ AI‑powered robo‑advisor for smarter recommendations
 
 Mobile app / cloud deployment for accessibility
 
-📌 Conclusion  
+**Conclusion**
+
 FinGen Advisor transforms scattered financial data into clear, interactive dashboards. By combining Power BI with SQL/Excel, it empowers advisors and investors with personalized insights, risk alerts, and sector analysis. With future enhancements like live data and AI integration, it can evolve into a complete smart financial assistant.
+
+**Author**
+
+Diya Agarwal
